@@ -1,6 +1,4 @@
-.1{
-    width: 200px;
-    height: 300px;
-    background-image: url("../img/1.png");
-    display: inline-block;
+.imagem-redimensionada {
+    width: 300px;   /* Define a largura da imagem */
+    height: auto;   /* Mantém a proporção da altura */
 }
